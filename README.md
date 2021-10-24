@@ -50,19 +50,19 @@ Ring Oscillator Simulation:
 ![image](https://user-images.githubusercontent.com/87785000/138582737-1d4f9979-d828-49ca-b333-6e05a7d496e0.png)
 ![image](https://user-images.githubusercontent.com/87785000/138582740-61bf9d98-f66c-4ff6-bbce-73898d49d9c7.png)
     
-    Measurement of Worst-Case Rising Time and Falling Time:
+   Measurement of Worst-Case Rising Time and Falling Time:
     
-    ![image](https://user-images.githubusercontent.com/87785000/138582761-cff7db50-8ea7-4723-aeb9-fee7f5158883.png)
+   ![image](https://user-images.githubusercontent.com/87785000/138582761-cff7db50-8ea7-4723-aeb9-fee7f5158883.png)
 
 D-Type Latch Simulation:
 
 ![image](https://user-images.githubusercontent.com/87785000/138582782-2a579ac6-0e81-4f98-b602-5c667ac54434.png)
   
-    Measurement of Propagation Delays:
+   Measurement of Propagation Delays:
     
-    ![image](https://user-images.githubusercontent.com/87785000/138582817-06a819d1-38d4-43fc-b400-feaa3c1cccca.png)
+   ![image](https://user-images.githubusercontent.com/87785000/138582817-06a819d1-38d4-43fc-b400-feaa3c1cccca.png)
     
-    ![image](https://user-images.githubusercontent.com/87785000/138582826-4fd62b72-ba03-466d-8582-490349842161.png)
+   ![image](https://user-images.githubusercontent.com/87785000/138582826-4fd62b72-ba03-466d-8582-490349842161.png)
 
 
 
