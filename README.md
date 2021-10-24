@@ -9,8 +9,11 @@ I also provided all the files that I used in this project so that you can try it
 
 # Insight about the project: 
 This project will build upon the designing of standard CMOS inverter to design more complex digital CMOS combinational and sequential building blocks:
+
   A. An enabled ring oscillator circuit design and analysis, which will be utilized to extract a Delay Correlation Factor and Input Capacitance for reference inverter propagation delayestimates in a given 2μm technology node, using simple analytical models.
+  
   B. 2-input XOR gate design using standard CMOS design technology, to achieve balanced LH and HL propagation delay performance.
+  
   C. D-type latch design.
 
 Ring Oscillator Designing: 
