@@ -1,4 +1,4 @@
-# Designing Control System for Drone Wing Motor
+# Basic Combinational and Sequential Circuits in Standard CMOS
 
 ![image](https://user-images.githubusercontent.com/87785000/126638350-ce308e14-2b6b-4641-a5bc-3112809b1c87.png)
 
